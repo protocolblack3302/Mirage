@@ -1,0 +1,14 @@
+Host
+ec2-3-230-219-251.compute-1.amazonaws.com
+Database
+d23ro6guaeout0
+User
+rybypyuylohxne
+Port
+5432
+Password
+85e81a3294b70b619e5c07564e02f7182d608c3d21acfda3e42bcb6c14844fa9
+URI
+postgres://rybypyuylohxne:85e81a3294b70b619e5c07564e02f7182d608c3d21acfda3e42bcb6c14844fa9@ec2-3-230-219-251.compute-1.amazonaws.com:5432/d23ro6guaeout0
+Heroku CLI
+heroku pg:psql postgresql-concentric-03671 --app dry-ocean-13949
